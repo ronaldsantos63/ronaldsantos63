@@ -18,7 +18,7 @@
 
 # About me
 
-- 🎓 27 year old
+- 🎓 28 years old
 - 📱 Android Application developer - Kotlin and Flutter.
 - 👨‍💻 Mostly working on Android, Kotlin!
 - ✍️ Write stuff on [Medium](https://medium.com/@ronaldsantos).
